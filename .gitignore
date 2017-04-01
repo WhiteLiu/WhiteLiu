@@ -33,3 +33,5 @@
 *.cpp~
 *.txt~
 *.h~
+*/*/build/
+*/build/
