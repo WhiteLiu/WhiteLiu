@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++11 -O3  -Wno-deprecated -O3 -DNDEBUG     CMakeFiles/map_example.dir/map_example.cpp.o  -o map_example -rdynamic 
