@@ -28,7 +28,7 @@
 *.out
 *.app
 
-#selfdefine
+# selfdefine
 *.md~
 *.cpp~
 *.txt~
