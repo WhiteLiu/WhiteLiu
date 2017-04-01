@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jinhuazhe/Downloads/liu/WhiteLiu/WhiteLiu/vector_example.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
